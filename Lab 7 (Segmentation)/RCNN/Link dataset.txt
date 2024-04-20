@@ -1,0 +1,4 @@
+https://www.kaggle.com/datasets/azkihimmawan/chest-xray-masks-and-defect-detection
+https://www.kaggle.com/datasets/dat0chin/electron-microscopy-dataset
+https://www.kaggle.com/datasets/mateuszbuda/lgg-mri-segmentation?datasetId=181273
+https://www.kaggle.com/datasets/polomarco/chest-ct-segmentation
